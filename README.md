@@ -1,2 +1,2 @@
 # stripper
-Stripper configs Counter-Strike Source.
+Stripper configs for Counter-Strike Source.
