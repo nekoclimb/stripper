@@ -1,0 +1,6 @@
+//removes invalid solid tied to func_rotating
+filter:
+	{
+		"targetname" "d1"
+		"classname" "func_door"
+	}
